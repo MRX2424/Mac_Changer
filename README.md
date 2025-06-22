@@ -4,17 +4,6 @@ A modern and flexible Python tool to change your MAC address using the ip comman
 Supports manual MAC assignment or random generation using real vendor prefixes (OUI).
 
 ---
-🚀 How to Download and Run on Kali Linux
-
-git clone https://github.com/MRX2424/Mac_Changer.git
-cd Mac_Changer
-sudo python3 mac_changer.py -i eth0 --random
-
-# OR 
-
-sudo python3 mac_changer.py -i eth0 -m 00:11:22:33:44:55
-
----
 
 ## ✨ Features
 
